@@ -48,5 +48,6 @@ quickSort(n,0,f - 1);
 
 for (int i = 0; i < f;i++)
 printf("%d ",n[i]);
+ printf("\n");
 }
 
