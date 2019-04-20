@@ -48,21 +48,6 @@ double heapSort(int *numbers, int array_size)
     siftDown(numbers, 0, i - 1);
   }
 }
-int main()
-{
-    int f =0;
-scanf("%d",&f);
-int n[f];
-for (int j = 0;j <f;j++)
-{
-scanf("%d",&n[j]);
-} 
-heapSort(n,f);
-
-for (int i = 0; i < f;i++)
-printf("%d ",n[i]);
-printf("\n");
-}
 
 
 
