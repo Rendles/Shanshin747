@@ -34,4 +34,4 @@ $ git push -u origin pr7
 | 6                |                   |
 |3 1 0 9 -7 4      |-7 0 1 3 4 9       |
 
-[Ссылка на пример оформления данного текстового документа](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
+[Ссылка на пример оформления данного текстового документа](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet) 
